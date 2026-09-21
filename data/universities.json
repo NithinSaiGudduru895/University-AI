@@ -1,0 +1,416 @@
+[
+  {
+    "id": "andhra_university",
+    "name": "Andhra University",
+    "short_name": "AU",
+    "city": "Visakhapatnam",
+    "type": "State University",
+    "official_url": "https://www.andhrauniversity.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "sri_venkateswara_university",
+    "name": "Sri Venkateswara University",
+    "short_name": "SVU",
+    "city": "Tirupati",
+    "type": "State University",
+    "official_url": "https://www.svuniversity.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "acharya_nagarjuna_university",
+    "name": "Acharya Nagarjuna University",
+    "short_name": "ANU",
+    "city": "Guntur",
+    "type": "State University",
+    "official_url": "https://www.nagarjunauniversity.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "sri_krishnadevaraya_university",
+    "name": "Sri Krishnadevaraya University",
+    "short_name": "SKU",
+    "city": "Anantapuramu",
+    "type": "State University",
+    "official_url": "https://www.skuniversity.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "adikavi_nannaya_university",
+    "name": "Adikavi Nannaya University",
+    "short_name": "AKNU",
+    "city": "Rajamahendravaram",
+    "type": "State University",
+    "official_url": "https://www.aknu.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "yogi_vemana_university",
+    "name": "Yogi Vemana University",
+    "short_name": "YVU",
+    "city": "Kadapa",
+    "type": "State University",
+    "official_url": "https://www.yvu.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "dr_b_r_ambedkar_university",
+    "name": "Dr. B.R. Ambedkar University",
+    "short_name": "DrBRAU",
+    "city": "Srikakulam",
+    "type": "State University",
+    "official_url": "https://www.brau.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "vikrama_simhapuri_university",
+    "name": "Vikrama Simhapuri University",
+    "short_name": "VSU",
+    "city": "Nellore",
+    "type": "State University",
+    "official_url": "https://www.svu.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "krishna_university",
+    "name": "Krishna University",
+    "short_name": "KRU",
+    "city": "Machilipatnam",
+    "type": "State University",
+    "official_url": "https://www.kru.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "rayalaseema_university",
+    "name": "Rayalaseema University",
+    "short_name": "RU",
+    "city": "Kurnool",
+    "type": "State University",
+    "official_url": "https://www.ruk.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "jntuk",
+    "name": "Jawaharlal Nehru Technological University Kakinada",
+    "short_name": "JNTUK",
+    "city": "Kakinada",
+    "type": "State Technological University",
+    "official_url": "https://www.jntuk.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "jntua",
+    "name": "Jawaharlal Nehru Technological University Anantapur",
+    "short_name": "JNTUA",
+    "city": "Anantapuramu",
+    "type": "State Technological University",
+    "official_url": "https://www.jntua.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "jntugv",
+    "name": "Jawaharlal Nehru Technological University Gurajada Vizianagaram",
+    "short_name": "JNTUGV",
+    "city": "Vizianagaram",
+    "type": "State Technological University",
+    "official_url": "https://jntugv.edu.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "spmvv",
+    "name": "Sri Padmavati Mahila Visvavidyalayam",
+    "short_name": "SPMVV",
+    "city": "Tirupati",
+    "type": "Women's State University",
+    "official_url": "https://www.spmvv.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "dravidian_university",
+    "name": "Dravidian University",
+    "short_name": "DU",
+    "city": "Kuppam",
+    "type": "State University",
+    "official_url": "https://www.dravidianuniversity.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "dr_abdul_haq_urdu_university",
+    "name": "Dr. Abdul Haq Urdu University",
+    "short_name": "DrAHUU",
+    "city": "Kurnool",
+    "type": "State University",
+    "official_url": "https://www.ahuuk.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "dr_ysr_architecture_fine_arts_university",
+    "name": "Dr. YSR Architecture and Fine Arts University",
+    "short_name": "DrYSRAFU",
+    "city": "Kadapa",
+    "type": "State University",
+    "official_url": "https://www.ysrafu.ac.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "rgukt",
+    "name": "Rajiv Gandhi University of Knowledge Technologies",
+    "short_name": "RGUKT",
+    "city": "Nuzvid / RK Valley campuses",
+    "type": "State University",
+    "official_url": "https://www.rgukt.in/",
+    "state": "Andhra Pradesh"
+  },
+  {
+    "id": "osmania_university",
+    "name": "Osmania University",
+    "short_name": "OU",
+    "city": "Hyderabad",
+    "type": "State University",
+    "official_url": "https://www.osmania.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "kakatiya_university",
+    "name": "Kakatiya University",
+    "short_name": "KU",
+    "city": "Warangal",
+    "type": "State University",
+    "official_url": "https://kakatiya.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "telangana_university",
+    "name": "Telangana University",
+    "short_name": "TU",
+    "city": "Nizamabad",
+    "type": "State University",
+    "official_url": "https://telanganauniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "mahatma_gandhi_university_nalgonda",
+    "name": "Mahatma Gandhi University, Nalgonda",
+    "short_name": "MGU",
+    "city": "Nalgonda",
+    "type": "State University",
+    "official_url": "https://mguniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "palamuru_university",
+    "name": "Palamuru University",
+    "short_name": "PU",
+    "city": "Mahabubnagar",
+    "type": "State University",
+    "official_url": "https://palamuruuniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "satavahana_university",
+    "name": "Satavahana University",
+    "short_name": "SU",
+    "city": "Karimnagar",
+    "type": "State University",
+    "official_url": "https://satavahana.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "veera_nari_chakali_ailamma_womens_university",
+    "name": "Veera Nari Chakali Ailamma Women's University",
+    "short_name": "VCAWU",
+    "city": "Hyderabad",
+    "type": "State University",
+    "official_url": "https://vcwuniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "suravaram_pratapa_reddy_telugu_university",
+    "name": "Suravaram Pratapa Reddy Telugu University",
+    "short_name": "SPRTU",
+    "city": "Hyderabad",
+    "type": "State University",
+    "official_url": "https://teluguuniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "jntuh",
+    "name": "Jawaharlal Nehru Technological University Hyderabad",
+    "short_name": "JNTUH",
+    "city": "Hyderabad",
+    "type": "State Technological University",
+    "official_url": "https://jntuh.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "rgukt_basar",
+    "name": "Rajiv Gandhi University of Knowledge Technologies, Basar",
+    "short_name": "RGUKT",
+    "city": "Basar",
+    "type": "State University",
+    "official_url": "https://www.rgukt.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "prof_jayashankar_agricultural_university",
+    "name": "Professor Jayashankar Telangana State Agricultural University",
+    "short_name": "PJTSAU",
+    "city": "Hyderabad",
+    "type": "State Agricultural University",
+    "official_url": "https://pjtsau.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "knruhs",
+    "name": "Kaloji Narayana Rao University of Health Sciences",
+    "short_name": "KNRUHS",
+    "city": "Warangal",
+    "type": "State Health Sciences University",
+    "official_url": "https://www.knruhs.telangana.gov.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "skltghu",
+    "name": "Sri Konda Laxman Telangana State Horticultural University",
+    "short_name": "SKLTGHU",
+    "city": "Mulugu",
+    "type": "State Horticultural University",
+    "official_url": "https://skltghu.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "pvnrtvu",
+    "name": "Sri P.V. Narasimha Rao Telangana Veterinary University",
+    "short_name": "PVNRTVU",
+    "city": "Hyderabad",
+    "type": "State Veterinary University",
+    "official_url": "https://tsvu.nic.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "dr_manmohan_singh_earth_sciences_university",
+    "name": "Dr. Manmohan Singh Earth Sciences University of Telangana",
+    "short_name": "DrMSESUT",
+    "city": "Kothagudem",
+    "type": "State Specialized University",
+    "official_url": "https://www.drmsesut.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "young_india_skills_university",
+    "name": "Young India Skills University",
+    "short_name": "YISU",
+    "city": "Hyderabad",
+    "type": "State Skills University",
+    "official_url": "https://yisu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "braou",
+    "name": "Dr. B.R. Ambedkar Open University",
+    "short_name": "BRAOU",
+    "city": "Hyderabad",
+    "type": "State Open University",
+    "official_url": "https://braou.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "university_of_hyderabad",
+    "name": "University of Hyderabad",
+    "short_name": "UoH",
+    "city": "Hyderabad",
+    "type": "Central University",
+    "official_url": "https://uohyd.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "eflu",
+    "name": "The English and Foreign Languages University",
+    "short_name": "EFLU",
+    "city": "Hyderabad",
+    "type": "Central University",
+    "official_url": "https://efluniversity.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "manuu",
+    "name": "Maulana Azad National Urdu University",
+    "short_name": "MANUU",
+    "city": "Hyderabad",
+    "type": "Central University",
+    "official_url": "https://manuu.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "iiit_hyderabad",
+    "name": "International Institute of Information Technology Hyderabad",
+    "short_name": "IIIT-H",
+    "city": "Hyderabad",
+    "type": "Deemed University",
+    "official_url": "https://www.iiit.ac.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "icfai",
+    "name": "ICFAI Foundation for Higher Education",
+    "short_name": "IFHE",
+    "city": "Hyderabad",
+    "type": "Deemed University",
+    "official_url": "https://www.ifheindia.org/",
+    "state": "Telangana"
+  },
+  {
+    "id": "chaitanya_deemed_university",
+    "name": "Chaitanya Deemed to be University",
+    "short_name": "CDU",
+    "city": "Warangal",
+    "type": "Deemed University",
+    "official_url": "https://chaitanya.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "anurag_university",
+    "name": "Anurag University",
+    "short_name": "AU",
+    "city": "Hyderabad",
+    "type": "Private University",
+    "official_url": "https://anurag.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "mahindra_university",
+    "name": "Mahindra University",
+    "short_name": "MU",
+    "city": "Hyderabad",
+    "type": "Private University",
+    "official_url": "https://www.mahindrauniversity.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "sr_university",
+    "name": "SR University",
+    "short_name": "SRU",
+    "city": "Warangal",
+    "type": "Private University",
+    "official_url": "https://www.sru.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "woxsen_university",
+    "name": "Woxsen University",
+    "short_name": "WU",
+    "city": "Hyderabad",
+    "type": "Private University",
+    "official_url": "https://woxsen.edu.in/",
+    "state": "Telangana"
+  },
+  {
+    "id": "malla_reddy_university",
+    "name": "Malla Reddy University",
+    "short_name": "MRU",
+    "city": "Hyderabad",
+    "type": "Private University",
+    "official_url": "https://mallareddyuniversity.ac.in/",
+    "state": "Telangana"
+  }
+]

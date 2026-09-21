@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AP + Telangana University AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+<div class="app">
+
+    <aside class="sidebar">
+
+        <div class="brand">
+            <div class="brand-icon">✦</div>
+            <div>
+                <h1>University AI</h1>
+                <span>AP + Telangana</span>
+            </div>
+        </div>
+
+        <div class="status-card">
+            <div class="status-dot"></div>
+            <div>
+                <strong id="statusText">Connecting...</strong>
+                <span>RAG system status</span>
+            </div>
+        </div>
+
+        <div class="sidebar-section">
+
+            <label for="stateFilter">State</label>
+
+            <select id="stateFilter">
+                <option value="">All States</option>
+                <option value="Andhra Pradesh">Andhra Pradesh</option>
+                <option value="Telangana">Telangana</option>
+            </select>
+
+        </div>
+
+        <div class="sidebar-section">
+
+            <label for="university">University</label>
+
+            <select id="university">
+                <option value="">Select a university</option>
+            </select>
+
+        </div>
+
+        <div class="university-card">
+
+            <div class="university-card-label">
+                SELECTED UNIVERSITY
+            </div>
+
+            <h2 id="uniName">
+                Select a university
+            </h2>
+
+            <p id="uniMeta">
+                AP + Telangana university knowledge base
+            </p>
+
+            <a
+                id="officialLink"
+                href="#"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                Official website ↗
+            </a>
+
+        </div>
+
+        <div class="sidebar-section upload-section">
+
+            <label>Knowledge Base</label>
+
+            <div class="file-box">
+
+                <input
+                    type="file"
+                    id="file"
+                    accept=".pdf,.docx,.txt"
+                >
+
+                <label
+                    for="file"
+                    class="file-label"
+                >
+                    <span class="file-icon">↑</span>
+                    <span>
+                        <strong>Choose document</strong>
+                        <small>PDF, DOCX or TXT</small>
+                    </span>
+                </label>
+
+            </div>
+
+            <button
+                id="uploadBtn"
+                class="upload-btn"
+            >
+                Upload & index
+            </button>
+
+            <div
+                id="uploadStatus"
+                class="upload-status"
+            ></div>
+
+        </div>
+
+        <div class="sidebar-footer">
+            <span>Powered by</span>
+            <strong>Gemini + RAG + FAISS</strong>
+        </div>
+
+    </aside>
+
+
+    <main class="main">
+
+        <header class="topbar">
+
+            <div>
+                <div class="eyebrow">
+                    UNIVERSITY KNOWLEDGE ASSISTANT
+                </div>
+
+                <h2>
+                    Ask. Retrieve. Verify.
+                </h2>
+
+                <p>
+                    Get answers from indexed university documents.
+                </p>
+            </div>
+
+            <div class="topbar-badge">
+                <span></span>
+                AI RAG
+            </div>
+
+        </header>
+
+
+        <section class="hero">
+
+            <div class="hero-content">
+
+                <div class="hero-badge">
+                    AP + TELANGANA
+                </div>
+
+                <h1>
+                    Your university,
+                    <span>in one conversation.</span>
+                </h1>
+
+                <p>
+                    Select a university and ask questions about
+                    academics, courses, examinations and other
+                    information available in the indexed documents.
+                </p>
+
+            </div>
+
+        </section>
+
+
+        <div class="suggestions">
+
+            <button
+                type="button"
+                data-q="What academic information is available in the indexed documents?"
+            >
+                Academic information
+            </button>
+
+            <button
+                type="button"
+                data-q="What courses or programmes are mentioned?"
+            >
+                Courses & programmes
+            </button>
+
+            <button
+                type="button"
+                data-q="What examination information is available?"
+            >
+                Examinations
+            </button>
+
+        </div>
+
+
+        <section
+            id="messages"
+            class="messages"
+        ></section>
+
+
+        <div class="input-wrapper">
+
+            <div class="chat-input-area">
+
+                <textarea
+                    id="question"
+                    rows="1"
+                    placeholder="Ask something about your selected university..."
+                ></textarea>
+
+                <button
+                    id="sendBtn"
+                    type="button"
+                >
+                    Send
+                </button>
+
+            </div>
+
+            <div class="input-note">
+                AI can make mistakes. Verify important information
+                against the cited document.
+            </div>
+
+        </div>
+
+    </main>
+
+</div>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+
+</body>
+</html>
