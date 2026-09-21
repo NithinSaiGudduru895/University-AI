@@ -10,3 +10,4 @@ google-genai>=1.0
 Werkzeug>=3.0
 requests>=2.32
 beautifulsoup4>=4.12
+gunicorn>=22.0
